@@ -16,8 +16,9 @@ Neste projeto, mergulhei no universo dos doramas coreanos com o apoio de IAs gen
 4. **Ajustes visuais**: Finalizei a ambientação com ferramentas como Canva e editores de vídeo.  
 
 ## 🚀 Resultados  
-🎥 Um vídeo curto (1 a 2 minutos) com avatar virtual expressando sentimentos, reflexões e dilemas existenciais no estilo “k-drama”.  
-🔗 [Link para o vídeo publicado] (adicione o link do vídeo quando estiver pronto)
+🎥 Um vídeo curto com avatar virtual expressando sentimentos, reflexões e dilemas no estilo “k-drama”.
+📺 Assista ao vídeo completo aqui:  
+[https://youtube.com/shorts/fs4JdFZzscg?feature=share](https://youtube.com/shorts/fs4JdFZzscg?feature=share)
 
 ## 💭 Reflexão  
 Criar um conteúdo emocionalmente convincente com IA foi desafiador — mas surpreendente. A fronteira entre o que é natural e o que é gerado por IA se torna mais sutil a cada dia. Esse projeto me mostrou como a tecnologia pode ser usada de forma sensível e artística, inclusive em narrativas humanas.
